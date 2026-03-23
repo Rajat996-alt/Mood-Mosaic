@@ -47,7 +47,7 @@ Mood-Mosaic/
  
 ⚙️ Setup Instructions
 1️. Clone the Repository
- git clone https://github.com/YOUR_USERNAME/Mood-Mosaic.git
+ git clone https://github.com/Rajat996-alt/Mood-Mosaic.git
  cd Mood-Mosaic
 
 2️. Frontend Setup (React)
