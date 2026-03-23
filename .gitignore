@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Java
+target/
+*.class
+
+# Env files
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
